@@ -7,5 +7,3 @@ delay = randint(2, 9) + 3
 sleep(delay)
 
 playsound.playsound('880Hz_tone.mp3')
-
-return delay
